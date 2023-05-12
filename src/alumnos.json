@@ -1,0 +1,294 @@
+[
+  {
+    "nombre": "luna",
+    "apellido": "del giorgio",
+    "dni": 42630927,
+    "fechNacimiento": "17/5/2000",
+    "sexo": "femenino",
+    "celular": 2281304236,
+    "email": "lunadelgiorgio@gmail.com",
+    "materias": [
+      {
+        "materia": [
+          "literatura"
+        ],
+        "nota": "7"
+      },
+      {
+        "materia": [
+          "historia"
+        ],
+        "nota": "8"
+      },
+      {
+        "materia": [
+          "geografia"
+        ],
+        "nota": "8"
+      },
+      {
+        "materia": [
+          "ed. fisica"
+        ],
+        "nota": "7"
+      },
+      {
+        "materia": [
+          "matematicas"
+        ],
+        "nota": "8"
+      },
+      {
+        "materia": [
+          "programacion"
+        ],
+        "nota": "9"
+      },
+      {
+        "materia": [
+          "fisica"
+        ],
+        "nota": "7"
+      },
+      {
+        "materia": "Promedio ",
+        "nota": 8
+      }
+    ],
+    "promedio": 0,
+    "matricula": "aaf81"
+  },
+  {
+    "nombre": "sebastian",
+    "apellido": "lopez",
+    "dni": 403922333,
+    "fechNacimiento": "18/11/2005",
+    "sexo": "masculino",
+    "celular": 228173323,
+    "email": "sebalopez@gmail.com",
+    "materias": [
+      {
+        "materia": [
+          "literatura"
+        ],
+        "nota": "7"
+      },
+      {
+        "materia": [
+          "historia"
+        ],
+        "nota": "8"
+      },
+      {
+        "materia": [
+          "geografia"
+        ],
+        "nota": "6"
+      },
+      {
+        "materia": [
+          "ed. fisica"
+        ],
+        "nota": "5"
+      },
+      {
+        "materia": [
+          "matematicas"
+        ],
+        "nota": "6"
+      },
+      {
+        "materia": [
+          "programacion"
+        ],
+        "nota": "5"
+      },
+      {
+        "materia": [
+          "fisica"
+        ],
+        "nota": "6"
+      },
+      {
+        "materia": "Promedio ",
+        "nota": 6
+      }
+    ],
+    "promedio": 0,
+    "matricula": "10d97"
+  },
+  {
+    "nombre": "josefina",
+    "apellido": "fernandez",
+    "dni": 45303422,
+    "fechNacimiento": "13/9/2005",
+    "sexo": "femenino",
+    "celular": 2281422334,
+    "email": "josefern@gmail.com",
+    "materias": [
+      {
+        "materia": [
+          "literatura"
+        ],
+        "nota": "6"
+      },
+      {
+        "materia": [
+          "historia"
+        ],
+        "nota": "7"
+      },
+      {
+        "materia": [
+          "geografia"
+        ],
+        "nota": "7"
+      },
+      {
+        "materia": [
+          "ed. fisica"
+        ],
+        "nota": "7"
+      },
+      {
+        "materia": [
+          "matematicas"
+        ],
+        "nota": "7"
+      },
+      {
+        "materia": [
+          "programacion"
+        ],
+        "nota": "8"
+      },
+      {
+        "materia": [
+          "fisica"
+        ],
+        "nota": "7"
+      },
+      {
+        "materia": "Promedio ",
+        "nota": 7
+      }
+    ],
+    "matricula": "78051"
+  },
+  {
+    "nombre": "jose",
+    "apellido": "araujo",
+    "dni": 45933233,
+    "fechNacimiento": "28/4/2006",
+    "sexo": "masculino",
+    "celular": 2281732332,
+    "email": "josearauj@gmail.com",
+    "materias": [
+      {
+        "materia": [
+          "literatura"
+        ],
+        "nota": "6"
+      },
+      {
+        "materia": [
+          "historia"
+        ],
+        "nota": "7"
+      },
+      {
+        "materia": [
+          "geografia"
+        ],
+        "nota": "10"
+      },
+      {
+        "materia": [
+          "ed. fisica"
+        ],
+        "nota": "9"
+      },
+      {
+        "materia": [
+          "matematicas"
+        ],
+        "nota": "8"
+      },
+      {
+        "materia": [
+          "programacion"
+        ],
+        "nota": "8"
+      },
+      {
+        "materia": [
+          "fisica"
+        ],
+        "nota": "9"
+      },
+      {
+        "materia": "Promedio ",
+        "nota": 8
+      }
+    ],
+    "matricula": "b8d9b"
+  },
+  {
+    "nombre": "florencia",
+    "apellido": "garcia",
+    "dni": 4442332,
+    "fechNacimiento": "22/9/2004",
+    "sexo": "femenino",
+    "celular": 2281332332,
+    "email": "florgar@gmail.com",
+    "materias": [
+      {
+        "materia": [
+          "literatura"
+        ],
+        "nota": "9"
+      },
+      {
+        "materia": [
+          "historia"
+        ],
+        "nota": "9"
+      },
+      {
+        "materia": [
+          "geografia"
+        ],
+        "nota": "8"
+      },
+      {
+        "materia": [
+          "ed. fisica"
+        ],
+        "nota": "9"
+      },
+      {
+        "materia": [
+          "matematicas"
+        ],
+        "nota": "9"
+      },
+      {
+        "materia": [
+          "programacion"
+        ],
+        "nota": "8"
+      },
+      {
+        "materia": [
+          "fisica"
+        ],
+        "nota": "9"
+      },
+      {
+        "materia": "Promedio ",
+        "nota": 9
+      }
+    ],
+    "matricula": "8334b"
+  }
+]

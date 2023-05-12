@@ -1,0 +1,240 @@
+[
+  {
+    "nombre": "paula",
+    "apellido": "perez",
+    "dni": 20283222,
+    "fechNacimiento": "16/4/1970",
+    "sexo": "femenino",
+    "celular": 2281300222,
+    "email": "paulap@gmail.com",
+    "materiaAdictar": [
+      "literatura"
+    ],
+    "alumnos": [
+      {
+        "nombre": "luna",
+        "apellido": "del giorgio"
+      },
+      {
+        "nombre": "sebastian",
+        "apellido": "lopez"
+      },
+      {
+        "nombre": "josefina",
+        "apellido": "fernandez"
+      },
+      {
+        "nombre": "jose",
+        "apellido": "araujo"
+      },
+      {
+        "nombre": "florencia",
+        "apellido": "garcia"
+      }
+    ],
+    "contrato": true
+  },
+  {
+    "nombre": "hector",
+    "apellido": "rodriguez",
+    "dni": 16164241,
+    "fechNacimiento": "30/1/1969",
+    "sexo": "masculino",
+    "celular": 2281403233,
+    "email": "hectorod@gmail.com",
+    "materiaAdictar": [
+      "historia"
+    ],
+    "alumnos": [
+      {
+        "nombre": "luna",
+        "apellido": "del giorgio"
+      },
+      {
+        "nombre": "sebastian",
+        "apellido": "lopez"
+      },
+      {
+        "nombre": "josefina",
+        "apellido": "fernandez"
+      },
+      {
+        "nombre": "jose",
+        "apellido": "araujo"
+      },
+      {
+        "nombre": "florencia",
+        "apellido": "garcia"
+      }
+    ],
+    "contrato": true
+  },
+  {
+    "nombre": "marianela",
+    "apellido": "lopez",
+    "dni": 26343422,
+    "fechNacimiento": "4/11/1978",
+    "sexo": "femenino",
+    "celular": 2281403222,
+    "email": "mari_lopez@gmail.com",
+    "materiaAdictar": [
+      "geografia"
+    ],
+    "alumnos": [
+      {
+        "nombre": "luna",
+        "apellido": "del giorgio"
+      },
+      {
+        "nombre": "sebastian",
+        "apellido": "lopez"
+      },
+      {
+        "nombre": "josefina",
+        "apellido": "fernandez"
+      },
+      {
+        "nombre": "jose",
+        "apellido": "araujo"
+      },
+      {
+        "nombre": "florencia",
+        "apellido": "garcia"
+      }
+    ],
+    "contrato": true
+  },
+  {
+    "nombre": "patricio",
+    "apellido": "duarte",
+    "dni": 30244211,
+    "fechNacimiento": "18/9/1979",
+    "sexo": "masculino",
+    "celular": 2494323442,
+    "email": "patricio123@gmail.com",
+    "materiaAdictar": [
+      "ed. fisica"
+    ],
+    "alumnos": [
+      {
+        "nombre": "luna",
+        "apellido": "del giorgio"
+      },
+      {
+        "nombre": "sebastian",
+        "apellido": "lopez"
+      },
+      {
+        "nombre": "josefina",
+        "apellido": "fernandez"
+      },
+      {
+        "nombre": "jose",
+        "apellido": "araujo"
+      },
+      {
+        "nombre": "florencia",
+        "apellido": "garcia"
+      }
+    ],
+    "contrato": true
+  },
+  {
+    "nombre": "fernando",
+    "apellido": "diaz",
+    "dni": 30242222,
+    "fechNacimiento": "19/9/1983",
+    "sexo": "masculino",
+    "celular": 2281342566,
+    "email": "fernandodiaz@gmail.com",
+    "materiaAdictar": [
+      "matematicas"
+    ],
+    "alumnos": [],
+    "contrato": true
+  },
+  {
+    "nombre": "dolores",
+    "apellido": "poo",
+    "dni": 123424244,
+    "fechNacimiento": "12/2/1999",
+    "sexo": "indefinido",
+    "celular": 228112345,
+    "email": "dolorespoo@gmail.com",
+    "materiaAdictar": [
+      "programacion"
+    ],
+    "alumnos": [],
+    "contrato": true
+  },
+  {
+    "nombre": "gabriela",
+    "apellido": "tornabene",
+    "dni": 24293222,
+    "fechNacimiento": "30/6/1980",
+    "sexo": "femenino",
+    "celular": 2494523322,
+    "email": "gabitor@gmail.com",
+    "materiaAdictar": [
+      "fisica"
+    ],
+    "alumnos": [
+      {
+        "nombre": "luna",
+        "apellido": "del giorgio"
+      },
+      {
+        "nombre": "sebastian",
+        "apellido": "lopez"
+      },
+      {
+        "nombre": "josefina",
+        "apellido": "fernandez"
+      },
+      {
+        "nombre": "jose",
+        "apellido": "araujo"
+      },
+      {
+        "nombre": "florencia",
+        "apellido": "garcia"
+      }
+    ],
+    "contrato": true
+  },
+  {
+    "nombre": "javier",
+    "apellido": "gomez",
+    "dni": 24593223,
+    "fechNacimiento": "12/11/1979",
+    "sexo": "masculino",
+    "celular": 2281733232,
+    "email": "javigomez@gmail.com",
+    "materiaAdictar": [
+      "quimica"
+    ],
+    "contrato": true,
+    "alumnos": [
+      {
+        "nombre": "luna",
+        "apellido": "del giorgio"
+      },
+      {
+        "nombre": "sebastian",
+        "apellido": "lopez"
+      },
+      {
+        "nombre": "josefina",
+        "apellido": "fernandez"
+      },
+      {
+        "nombre": "jose",
+        "apellido": "araujo"
+      },
+      {
+        "nombre": "florencia",
+        "apellido": "garcia"
+      }
+    ]
+  }
+]
